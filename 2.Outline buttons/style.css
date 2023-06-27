@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: monospace;
+}
+
+.main{
+    margin: 10px;
+}
+
+.allBtn{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+.btn{
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
+    background-color: white;
+
+}
+button{
+    padding: 10px 20px;
+
+}
+
+.success {
+    border: 2px solid #04AA6D;
+    color: #04AA6D;
+} 
+.success:hover {
+    background-color: #04AA6D;
+    color: white;
+}
+
+.info {border: 2px solid  #0b7dda; color: #0b7dda;} 
+.info:hover {background-color: #0b7dda; color: white;}
+
+.warning {border: 2px solid  #e68a00; color: #e68a00;} 
+.warning:hover {background: #e68a00; color: white;}
+
+.danger {border: 2px solid  #da190b; color: #da190b;}
+.danger:hover {background: #da190b; color: white;}
+
+.default {border: 2px solid  #c3c2c2; color: black;} 
+.default:hover {background: #c3c2c2;}
