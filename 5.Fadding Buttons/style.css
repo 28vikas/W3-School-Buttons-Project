@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2 {
+    margin: 10px 0;
+}
+
+.main {
+    padding: 10px;
+}
+
+.btn1 {
+    padding: 15px 25px;
+    font-size: 20px;
+    border: none;
+    color: white;
+    background-color: #f4511e;
+    cursor: pointer;
+    opacity: .6;
+    transition: .3s;
+    border-radius: 4px;
+}
+
+.btn1:hover{
+    opacity: 1;
+}
+
+
+/* ---------------------------------- */
+
+
+.btn2{
+    opacity: 1;
+    background-color: #3444bd;
+
+
+}
+
+.btn2:hover{
+ opacity: .6;
+}
+
+
+/* ----------------------------------- */
+
+
+.btn3{
+    background-color: rgb(194, 189, 189);
+    color: black;
+}
+
+.btn3:hover{
+    background-color: #3e8e41;
+    color: white;
+}
