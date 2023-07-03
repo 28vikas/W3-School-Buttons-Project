@@ -1,0 +1,42 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+
+.main{
+    padding: 10px;
+}
+
+h2{
+    margin: 10px 0;
+}
+.btn{
+    padding: 15px 25px;
+    background-color: DodgerBlue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+p{
+    margin: 10px 10px;
+}
+
+.fa-solid{
+    margin-right: 5px;
+}
+
+
+.btn1{
+    width: 100%;
+    padding: 15px 25px;
+    background-color: DodgerBlue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+
+}
