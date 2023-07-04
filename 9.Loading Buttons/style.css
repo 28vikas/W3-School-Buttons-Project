@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.buttonload{
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    font-size: 16px;
+}
+
+h2{
+    margin: 10px 0;
+}
+
+.fa{
+    margin-left: -12px;
+    margin-right: 8px;
+}
+
+.main{
+    padding: 10px;
+}
