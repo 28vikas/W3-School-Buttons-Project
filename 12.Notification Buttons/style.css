@@ -1,0 +1,35 @@
+
+
+
+
+
+.btn{
+    background-color: #555;
+    color: white;
+    border: none;
+    padding: 15px 26px;
+    border-radius: 2px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+
+.notification{
+    position: relative;
+    display: inline-block;
+
+}
+.btn:hover{
+    background-color: red;
+}
+
+
+.badge{
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 50%;
+    position: absolute;
+    top: -10px;
+    right: -10px;
+}
