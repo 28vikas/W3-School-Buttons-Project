@@ -1,0 +1,48 @@
+
+
+
+
+.main{
+    padding: 10px;
+}
+
+
+.prev{
+    padding: 8px 15px;
+   border: none;
+}
+
+
+.next{
+    padding: 8px 15px;
+    background-color: #04AA6D;
+    color: white;
+    border: none;
+}
+
+
+.btn{
+    border-radius: 50%;
+    width: 35px;
+    padding: 10px 10px;
+   border: none;
+}
+
+.btn2{
+
+    background-color: #04AA6D;
+    color: white;
+}
+
+
+.btn:hover{
+    background-color: #ddd;
+    color: black;
+    cursor: pointer;
+}
+
+.ht:hover{
+    background-color: #ddd;
+    color: black;
+    cursor: pointer;
+}
