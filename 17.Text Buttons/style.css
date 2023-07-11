@@ -1,0 +1,23 @@
+
+
+
+
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 2px;
+  }
+
+
+  
+    .btn:hover {background-color: #eee;}
+
+    .success {color: green;}
+    .info {color: dodgerblue;}
+    .warning {color: orange;}
+    .danger {color: red;}
+    .default {color: black;}
