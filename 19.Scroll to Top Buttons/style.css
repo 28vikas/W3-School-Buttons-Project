@@ -1,0 +1,37 @@
+
+.main{
+}
+
+.top{
+    background-color: black;
+    height: 150px;
+    line-height: 150px;
+    width: 100%;
+    color: white;
+    padding-left: 20px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.bottom{
+    background-color: rgb(202, 198, 198);
+    height: 1000px;
+    font-size: 30px;
+    padding: 10px;
+    width: 100%;
+}
+
+button{
+    padding: 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    border-radius: 6px;
+    position: fixed;
+    right: 30px;
+    bottom: 20px;
+    cursor: pointer;
+    display: none;
+}
